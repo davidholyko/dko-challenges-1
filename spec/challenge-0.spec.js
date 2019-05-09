@@ -46,7 +46,7 @@ describe('challenge-0: fizzfuzzbuzz', function () {
   })
 })
 
-describe('challenge-0: fizzbizzbuzzbezzbozz', function () {
+describe('challenge-0: fizzfuzzbuzzbezzbozz', function () {
   it('returns the correct value', function () {
     expect(challenge([
       {word: 'fizz', number: 3},
@@ -54,6 +54,6 @@ describe('challenge-0: fizzbizzbuzzbezzbozz', function () {
       {word: 'fuzz', number: 4},
       {word: 'bozz', number: 12},
       {word: 'bezz', number: 10}],
-    60)[59]).to.equal('fizzbizzbuzzbezzbozz')
+    60)[59]).to.equal('fizzfuzzbuzzbezzbozz')
   })
 })
