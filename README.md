@@ -1,4 +1,4 @@
-### Problem Format
+# Challenges-1: Wayfair Labs Tech Challenge Mimic
 
 #### Note: The tests are not super in-depth on purpose and passing the tests may not actually mean your functions work correctly and run in a reasonable amount of time!
 
